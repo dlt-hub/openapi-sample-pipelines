@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.clubhouse_api]
+# Base URL for the API
+base_url = "https://www.clubhouseapi.com/api/"
+

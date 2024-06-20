@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.google_analytics]
+# Base URL for the API
+base_url = "https://analytics.googleapis.com/analytics/v3"
+

@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.circleci]
+# Base URL for the API
+base_url = "https://circleci.com/api/v1"
+

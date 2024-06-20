@@ -1,0 +1,8 @@
+[runtime]
+log_level="INFO"
+
+[sources.asana]
+# Base URL for the API
+# Main endpoint.
+base_url = "https://app.asana.com/api/1.0"
+

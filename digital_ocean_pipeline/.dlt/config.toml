@@ -1,0 +1,8 @@
+[runtime]
+log_level="INFO"
+
+[sources.digital_ocean]
+# Base URL for the API
+# production
+base_url = "https://api.digitalocean.com"
+

@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.google_search_console]
+# Base URL for the API
+base_url = "https://searchconsole.googleapis.com/"
+

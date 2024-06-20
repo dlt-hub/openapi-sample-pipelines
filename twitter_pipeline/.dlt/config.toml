@@ -1,0 +1,8 @@
+[runtime]
+log_level="INFO"
+
+[sources.twitter]
+# Base URL for the API
+# Twitter API
+base_url = "https://api.twitter.com"
+

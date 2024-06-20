@@ -1,0 +1,15 @@
+[runtime]
+log_level="INFO"
+
+[sources.kafka]
+# Base URL for the API
+# The Kafka multi-region endpoint
+base_url = "http://kafka.{region}.amazonaws.com"
+
+# Alternative servers found in openapi spec:
+# The Kafka multi-region endpoint
+# base_url = "https://kafka.{region}.amazonaws.com"
+# The Kafka endpoint for China (Beijing) and China (Ningxia)
+# base_url = "http://kafka.{region}.amazonaws.com.cn"
+# The Kafka endpoint for China (Beijing) and China (Ningxia)
+# base_url = "https://kafka.{region}.amazonaws.com.cn"

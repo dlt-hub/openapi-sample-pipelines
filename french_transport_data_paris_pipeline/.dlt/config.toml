@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.french_transport_data_paris]
+# Base URL for the API
+base_url = "https://data.ratp.fr/api/explore/v2.0"
+

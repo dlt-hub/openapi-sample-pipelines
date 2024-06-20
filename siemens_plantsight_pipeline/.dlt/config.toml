@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.siemens_plantsight]
+# Base URL for the API
+base_url = "https://..."  # Replace with API base URL
+

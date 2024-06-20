@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.ifttt_service]
+# Base URL for the API
+base_url = "{scheme}://{hostname}"
+

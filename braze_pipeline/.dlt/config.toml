@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.braze]
+# Base URL for the API
+base_url = "https://rest.iad-01.braze.com"
+

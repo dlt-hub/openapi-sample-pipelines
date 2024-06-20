@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.google_adsense_host]
+# Base URL for the API
+base_url = "https://www.googleapis.com/adsensehost/v4.1"
+

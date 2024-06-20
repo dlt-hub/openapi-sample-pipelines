@@ -1,0 +1,8 @@
+[runtime]
+log_level="INFO"
+
+[sources.klaviyo]
+# Base URL for the API
+# Production
+base_url = "https://a.klaviyo.com"
+

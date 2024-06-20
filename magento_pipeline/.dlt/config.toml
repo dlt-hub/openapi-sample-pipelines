@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.magento]
+# Base URL for the API
+base_url = "https://example.com/rest/default"
+

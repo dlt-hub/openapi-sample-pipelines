@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.click_house_cloud]
+# Base URL for the API
+base_url = "https://api.clickhouse.cloud"
+

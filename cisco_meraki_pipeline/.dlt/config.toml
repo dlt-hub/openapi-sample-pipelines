@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.cisco_meraki]
+# Base URL for the API
+base_url = "https://api.meraki.com/api/v1"
+

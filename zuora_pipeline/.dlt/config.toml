@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.zuora]
+# Base URL for the API
+base_url = "https://rest.zuora.com"
+

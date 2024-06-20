@@ -1,0 +1,7 @@
+[runtime]
+log_level="INFO"
+
+[sources.airport_web]
+# Base URL for the API
+base_url = "https://..."  # Replace with API base URL
+

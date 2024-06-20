@@ -1,0 +1,9 @@
+[runtime]
+log_level="INFO"
+
+[sources.okta]
+# Base URL for the API
+base_url = "http://okta.local"
+
+# Alternative servers found in openapi spec:
+# base_url = ","

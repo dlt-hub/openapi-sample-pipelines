@@ -1,0 +1,8 @@
+[runtime]
+log_level="INFO"
+
+[sources.box_platform]
+# Base URL for the API
+# Box Platform API server
+base_url = "https://api.box.com/2.0"
+

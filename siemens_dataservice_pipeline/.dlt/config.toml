@@ -1,0 +1,11 @@
+[runtime]
+log_level="INFO"
+
+[sources.siemens_dataservice]
+# Base URL for the API
+# local running data service
+base_url = "http://localhost:4203"
+
+# Alternative servers found in openapi spec:
+# data service in docker container
+# base_url = "http://edgeappdataservice:4203"

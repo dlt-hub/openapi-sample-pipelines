@@ -1,0 +1,8 @@
+[runtime]
+log_level="INFO"
+
+[sources.mercedes_benz_traffic_signs]
+# Base URL for the API
+# Production server
+base_url = "https://api.mercedes-benz.com/traffic_signs/v2"
+

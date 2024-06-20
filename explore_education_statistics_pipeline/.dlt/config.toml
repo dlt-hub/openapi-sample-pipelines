@@ -1,0 +1,8 @@
+[runtime]
+log_level="INFO"
+
+[sources.explore_education_statistics]
+# Base URL for the API
+# Mock API
+base_url = "https://ees-api-mock.ambitiousocean-cb084d07.uksouth.azurecontainerapps.io/"
+
