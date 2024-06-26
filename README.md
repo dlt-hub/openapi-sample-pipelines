@@ -32,6 +32,4 @@ To run these pipelines, follow these steps:
 
 That's it! You should now be able to run the pipelines and see the results.
 
-For any additional help or information, refer to the individual pipeline documentation files or the [dlt-init-openapi](https://github.com/dlt-hub/dlt-init-openapi) page.
-
-Happy coding!
+For any additional help or information, refer to the individual pipeline documentation files or the [dlt-init-openapi](https://github.com/dlt-hub/dlt-init-openapi) page!
