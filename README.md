@@ -23,9 +23,10 @@ To run these pipelines, follow these steps:
     cd path/to/pipeline-folder
     ```
 
-2. Ensure that any required API keys are added to the `secrets.toml` file located in the `.dlt` folder. This file is necessary for accessing certain APIs.
+2. Install all requirements from the requirements.txt file. 
+3. Ensure that any required API keys are added to the `secrets.toml` file located in the `.dlt` folder. This file is necessary for accessing certain APIs.
 
-3. Execute the `..._pipeline.py` file in your CLI. Example:
+4. Execute the `..._pipeline.py` file in your CLI. Example:
     ```sh
     python game_of_thrones_pipeline.py
     ```
